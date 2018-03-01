@@ -138,3 +138,22 @@ SIFT features have been extracted, and check with the TA how to do that.
 better features
 better models
 
+
+For more detailed requirement:
+
+- Can be existing different evaluate matices, but for the task, we focused on the predict error for evaluation (0-1 errors).
+- Can upload another photo and using the saved model for classification again. (Constructed Model)
+- The user will use another image and once we upload that, then the program will extract the feature, then giving the corresponding predict outcome.
+- the feature.r and train.r is the homework part, and 3 weeks
+- Then given the test.R, have 30-mins to do the feature.r and test.r.
+	++ Thus we can try parallel computing if needed
+	++ Can be a trade-off between the accuracy and time-cost methods
+	++ Presentation will focus on the predictive power, computational effecticy
+	++ Like the google photos [todo] Can they be connected? The google photo and the google cloud engine
+- presentation
+	++ try to present the idea with natural language instead of the mathematical language
+	++ 7 minutes
+	++ Evaluation results as the supporting evidence: time and performance
+
+
+
